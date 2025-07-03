@@ -1,2 +1,27 @@
-/.settings/
-/bin/
+# Java
+*.class
+*.jar
+*.war
+*.ear
+
+# Logs
+*.log
+
+# Compiled files
+target/
+build/
+
+# IDE settings
+.idea/
+*.iml
+*.ipr
+*.iws
+.vscode/
+*.swp
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Sensitive data
+.env
